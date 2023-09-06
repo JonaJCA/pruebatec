@@ -1,0 +1,2 @@
+# pruebatec
+crud en laravel
